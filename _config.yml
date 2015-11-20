@@ -14,7 +14,7 @@ author:
   twitter: TinyZhang
 #   disqus: your_disqus_username
 
- google_analytics: 'UA-70086215-1'
+google_analytics: 'UA-70086215-1'
 
 # Build settings
 markdown: kramdown
