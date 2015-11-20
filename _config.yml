@@ -1,21 +1,21 @@
 # Site settings
-title: Daktilo
+title: Tiny's Blog
 description: >
   Write an awesome description for your new site here. You can edit this
   line in _config.yml. It will appear in your document head meta (for
   Google search results) and in your feed.xml site description.
 
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://hitchhiker.ma" # the base hostname & protocol for your site
+url: "http://zhangtiny123.github.io" # the base hostname & protocol for your site
 
 author:
-  fullname: Motaquillah Maddane
-  googleplus: https://www.google.com/+MotaquillahMaddane
-  github: kronik3r
-  twitter: electrik_frog
-  # disqus: your_disqus_username
+  fullname: Zhang Tao
+  googleplus: https://www.google.com
+  github: zhangtiny123
+  twitter: TinyZhang
+#   disqus: your_disqus_username
 
-# google_analytics: 'UA-XXXXXXXX-X'
+ google_analytics: 'UA-70086215-1'
 
 # Build settings
 markdown: kramdown
