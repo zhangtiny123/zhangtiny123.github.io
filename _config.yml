@@ -1,8 +1,7 @@
 # Site settings
 title: Tiny's Blog
 description:
-  这里是我的个人博客.
-  我会在这里记录下一些个人想法...
+  一个正在日新月异的互联网行业中摸爬滚打的程序猿,在这里写下了一些蛊惑箴言...
 
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://zhangtiny123.github.io" # the base hostname & protocol for your site

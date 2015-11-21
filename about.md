@@ -1,12 +1,12 @@
 ---
 layout: page
-title: About
-subtitle: Just who the hell you think I am?
-permalink: /about/
+title: About Me
+subtitle: Now I'm a web frontend developer, and interested in UX 
+permalink: /about-me/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+现在我主要在做前端开发,比较关注用户体验,很在意用户再产品的使用过程中是不是舒服的.
 
-You can find the source code for the Jekyll new theme at: [github.com/jglovier/jekyll-new](https://github.com/jglovier/jekyll-new)
+从毕业到现在,一直在处于敏捷开发的环境中,对于敏捷的思想和方法也是深信不疑.
 
-You can find the source code for Jekyll at [github.com/jekyll/jekyll](https://github.com/jekyll/jekyll)
+

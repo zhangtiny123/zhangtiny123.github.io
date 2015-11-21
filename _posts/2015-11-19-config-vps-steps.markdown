@@ -2,7 +2,7 @@
 layout: post
 title:  "Config a VPS by Shadowsocks"
 subtitle: "this is a Go version shadowsocks guide, Node or Python version is similar"
-date:   2015-09-06 23:34:01
+date:   2015-11-19 18:23:01
 categories: [tool]
 ---
 
