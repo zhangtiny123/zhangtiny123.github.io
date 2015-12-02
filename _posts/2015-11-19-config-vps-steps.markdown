@@ -3,7 +3,7 @@ layout: post
 title:  "Config a VPS by Shadowsocks"
 subtitle: "this is a Go version shadowsocks guide, Node or Python version is similar"
 date:   2015-11-19 18:23:01
-categories: [tool]
+categories: [black_tech]
 ---
 
 ## 1. install go

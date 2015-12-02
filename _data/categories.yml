@@ -1,8 +1,14 @@
-- slug: design
-  name: Design
+- slug: frontend
+  name: Frontend
 
 - slug: tools
   name: Tools
 
-- slug: productivity
-  name: Productivity
+- slug: reading
+  name: Reading
+
+- slug: backend
+  name: Backend
+
+- slug: black_tech
+  name: Black Tech
