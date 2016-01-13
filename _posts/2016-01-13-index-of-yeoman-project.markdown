@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "Confusion of index.html in a yeoman project"
-subtitle: "this is a Go version shadowsocks guide, Node or Python version is similar"
-date:   2016-01-13 18:10:01
+title:  "index.html in a yeoman project"
+subtitle: "Confusion about comments of index.html in a yeoman project"
+date:   2016-01-13 18:20:01
 categories: [frontend]
 ---
 
