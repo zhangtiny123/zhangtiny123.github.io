@@ -15,32 +15,30 @@ categories: [black]
 bash < <(curl -s -S -L https://raw.githubusercontent.com/moovweb/gvm/master/binscripts/gvm-installer)
 {% endhighlight %}
 
-2). vim ~/.bashrc and source gvm
+2). source gvm， just run the following command in your terminal.
 {% highlight bash %}
-[[ -s "$HOME/.gvm/scripts/gvm" ]] && source "$HOME/.gvm/scripts/gvm"
+source "$HOME/.gvm/scripts/gvm"
 {% endhighlight %}
 
-3). Logout and Login with Your User
-
-4). checkto make sure gvm is installed
+3). To check if gvm is installed correctly just run
 {% highlight bash %}
 gvm version
 {% endhighlight %}
-And see something like:
+And you'll see something like:
 {% highlight bash %}
 Go Version Manager v1.0.22 installed at /home/myuser/.gvm
 {% endhighlight %}
 
-5). install go
+4). install go
 {% highlight bash %}
 gvm listall
 gvm install go1.4
 gvm use go1.4
 {% endhighlight %}
 
-6). verify go is installed correctly
+5). verify go is installed correctly
 {% highlight bash %}
-go version 
+go version
 {% endhighlight %}
 
 ## 2. install shadowsocks-go
@@ -63,3 +61,4 @@ uninstall shadowsocks
 shadowsocks config file : /etc/shadowsocks.json
 
 ## 3. config shadowsocks client
+After the steps above, you will get the informations for client config at your terminal.
