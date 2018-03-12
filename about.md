@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About Me
-subtitle: Now I'm a web frontend developer, and interested in UX 
+subtitle: DevOps, Web Development, Docker, Kubernetes, Deeplearning  
 permalink: /about-me/
 ---
 
