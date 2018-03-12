@@ -5,8 +5,6 @@ subtitle: Now I'm a web frontend developer, and interested in UX
 permalink: /about-me/
 ---
 
-现在我主要在做前端开发,比较关注用户体验,很在意用户再产品的使用过程中是不是舒服的.
+目前在做 DevOps 方面的工作，同时从事一些 web 系统的前端及后端的开发工作，熟悉docker 及 kubernetes 等容器化及容器编排技术
 
-从毕业到现在,一直在处于敏捷开发的环境中,对于敏捷的思想和方法也是深信不疑.
-
-
+工作之余喜欢篮球和DOTA
